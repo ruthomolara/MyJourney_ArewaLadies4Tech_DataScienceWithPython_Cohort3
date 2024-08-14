@@ -1,1 +1,4 @@
 # MyJourney_ArewaLadies4Tech_DataScienceWithPython_Cohort3
+As a participant in the Arewa Ladies4Tech Python Cohort 3 with Data Science Nigeria (DSN), I dived into the world of Python programming alongside a group of talented women from Northern Nigeria. This program is all about building my skills in Python, data science, and machine learning, with plenty of hands-on experience to make sure I am ready to tackle real-world challenges.
+
+Being part of this cohort means I'm not just learning technical skills— I am also joining a supportive community where everyone is growing together. It’s a space where you can share ideas, collaborate on projects, and really boost your confidence in the tech field. This experience is setting me up to make a real impact in the tech world, with the tools and knowledge to back it up.
